@@ -1,0 +1,22 @@
+# Fichier de configuration contenant des identifiants
+config.py
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
