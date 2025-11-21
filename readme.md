@@ -5,8 +5,7 @@ dans le fichier "auto global exam.py" vous trouverez tout en haut les paramètre
 si le script plante juste relancez
 
 ## configuration
-creez un doc "config.py"
-dedans mettez:
-LOGIN_EMAIL = "bob.exemple@viacesi.fr"#exemple d'adress mail
 
-PASSWORD = "MDP_moodle_CESI"
+executez dans un terminal a l'endroit du projet : "pip install -r requirements.txt"
+
+renomez le document "config_exemple.py" en "config.py" en modifiant les login par vos login moodle
